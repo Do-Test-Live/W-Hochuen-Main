@@ -2843,7 +2843,7 @@ p > i + [class*="rt-icon"] {
 
 .text_button {
 	font-size: 14px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	font-weight: 700;
 }
 
